@@ -1,6 +1,6 @@
 # Calculator App
 
-<h3>It is a simple calculator app using python and for GUI (Graphical User Interface) Tkinter library is used.</h3>
+<h3>It is a simple calculator using python and for GUI (Graphical User Interface) Tkinter library is used.</h3>
 
 <h3>Tkinter is the most commonly used library for developing GUI (Graphical User Interface) in Python. It is a standard Python interface to the Tk GUI toolkit shipped with Python.</h3>
 
